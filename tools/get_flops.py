@@ -38,3 +38,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+# pip install fvcore
+# python tools/get_flops.py configs/textdet/dbnet/dbnet_r18_fpnc_1200e_icdar2015.py
